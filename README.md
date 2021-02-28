@@ -1,3 +1,3 @@
 # Data_Visualization
 
-**Data visualization** using **Pandas**
+**Data visualization** using **Pandas, Matplotlib**
