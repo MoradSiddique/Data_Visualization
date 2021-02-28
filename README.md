@@ -1,6 +1,6 @@
 # Data_Visualization
 
-**Data visualization** using **Pandas, Matplotlib and Seaborn**
+**Data visualization** using **Numpy, Pandas, Matplotlib and Seaborn**
 
 **part 1:**
 
