@@ -9,7 +9,8 @@ visualize :>
 **sin(x),cos(x),sin(x)/x, bar chart ,pie chart and plot**
 
 
-**part 2: **
+**part 2:**
+
 hist(),
 
 plot(kind='hist')
