@@ -23,6 +23,6 @@ visualize :>
 
 **Categorical Data Plots**
 
-**factorplot(), boxplot(), violinplot(), stripplot(), swarmplot(), barplot(), count plot()**
+**factorplot(), boxplot(), violinplot(), stripplot(), swarmplot(), barplot(), count plot(), factorplot()**
 
 
