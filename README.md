@@ -19,3 +19,10 @@ visualize :>
 
 visualize :>
 
+**distplot(), jointplot(), pairplot(), rugplot(), kdeplot()**
+
+**Categorical Data Plots**
+
+**factorplot(), boxplot(), violinplot(), stripplot(), swarmplot(), barplot(), count plot()**
+
+
