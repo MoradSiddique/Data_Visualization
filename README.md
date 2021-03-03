@@ -15,3 +15,7 @@ visualize :>
 
 **hist(), plot(kind='hist'), plot.hist(),plot.line(), plot.area(), plot.bar(), plot.scatter(), plot.box(), plot.hexbin(), plot.kde(), plot.density()**
 
+**part 3:**
+
+visualize :>
+
