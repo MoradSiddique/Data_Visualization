@@ -25,4 +25,13 @@ visualize :>
 
 **factorplot(), boxplot(), violinplot(), stripplot(), swarmplot(), barplot(), count plot(), factorplot()**
 
+**part 4:**
+
+visualize :>
+
+**Matrix Plots** >>> **heatmap,pivot_table,clustermap**
+
+**Regression Plots** >>>  **lmplot and countplot** 
+**Grids** >> **PairGrid,FacetGrid,JointGrid**
+
 
